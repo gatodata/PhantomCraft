@@ -1,4 +1,7 @@
 <img width="150" height="150" alt="PhantomCraft-logo" src="https://github.com/user-attachments/assets/46ad8ebf-1fe4-47aa-a90d-ab5fcbd70aba" />
+<p align="center">
+  <b>Language:</b> 🇺🇸 <a href="README.en.md">English | 🇷🇺 Русский</a>
+</p>
 
 # PhantomCraft 
 
