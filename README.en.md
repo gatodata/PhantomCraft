@@ -10,6 +10,8 @@ PhantomCraft is a desktop application for managing AFK bots in Minecraft with Mi
 The bot connects to a Minecraft server, stays online in AFK mode, and automatically reconnects if the connection drops or other issues occur.
 
 ---
+<img height="600" alt="image" src="https://github.com/user-attachments/assets/a37ada31-cbf0-484b-b609-63f272304e65" />
+---
 
 ## Features
 
