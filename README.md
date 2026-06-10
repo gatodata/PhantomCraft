@@ -10,6 +10,9 @@ PhantomCraft — desktop-приложение для управления AFK-б
 Бот подключается к серверу Minecraft, остаётся в игре в режиме AFK и автоматически переподключается при разрыве соединения или других сбоях.
 
 ---
+<img height="600" alt="image" src="https://github.com/user-attachments/assets/a37ada31-cbf0-484b-b609-63f272304e65" />
+---
+
 
 ## Возможности
 
