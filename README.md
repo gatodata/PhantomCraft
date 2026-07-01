@@ -11,6 +11,7 @@ PhantomCraft — desktop-приложение для управления AFK-б
 
 ---
 <img width="1232" height="886" alt="Screenshot-phantomcraftshpwcaseru" src="https://github.com/user-attachments/assets/e0ea47b9-c1b3-4375-9247-33e0c707f3b3" />
+
 ---
 
 
