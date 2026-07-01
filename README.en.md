@@ -19,6 +19,7 @@ The bot connects to a Minecraft server, stays online in AFK mode, and automatica
 - Minecraft server connection via MSA account
 - Multi-account support
 - AFK botting (staying online on servers automatically)
+- Automatic messaging
 - Automatic reconnection on disconnects or failures
 - Simple and user-friendly interface
 
